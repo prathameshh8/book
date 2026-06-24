@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "keep it simple"
+title: "keep it simplex"
 date: 2026-06-24
 ---
 
