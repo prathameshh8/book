@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Learnt a lot"
+date: 2026-06-23
+---
 so basciallly today i have spend the whole day learning from the sabo live stream which i missed live..
 
 i learnt lots of things 
